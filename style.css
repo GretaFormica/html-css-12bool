@@ -1,0 +1,15 @@
+.box {
+	text-align: center;
+	border: 1px solid white;
+	background-color: #006cfa;
+	padding: 10px;
+    color: white;
+    font-size: 10px;
+
+	width: 100%;
+}
+
+.box.green{
+    background-color: #00e165;
+    border-color: #006cfa;
+}
